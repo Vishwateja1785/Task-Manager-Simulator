@@ -2,8 +2,6 @@
 
 A simple console-based Task Manager Simulator that helps users manage their daily tasks efficiently. This project was developed as part of a hackathon challenge.
 
----
-
 **Features**
 
 - **Add a Task:**  
@@ -16,8 +14,6 @@ A simple console-based Task Manager Simulator that helps users manage their dail
   Undo the last action (add, complete, or view).
 - **Exit:**  
   End the program.
-
----
 
 ## How It Works
 
@@ -36,8 +32,6 @@ A simple console-based Task Manager Simulator that helps users manage their dail
 
 3. **Input Validation**
    - The program validates all user inputs and handles invalid entries gracefully.
-
----
 
 ## Sample Usage
 
@@ -71,8 +65,6 @@ Choose an option: 5
 Goodbye!
 ```
 
----
-
 ## Implementation Breakdown
 
 - **Task Data Structure:**  
@@ -86,13 +78,9 @@ Goodbye!
 - **Testing:**  
   All features tested for correctness and user experience.
 
----
-
 ## Constraints
 
 - Uses a stack for undo.
 - Modular code with separate functions for each operation.
 - Handles input validation and errors.
 - Menu-driven user interface.
-
----
